@@ -1,4 +1,4 @@
-# ⚡ BlockAuction — Secure Online E-Auction System Using Blockchain
+# ⚡ Excomfy.com — Secure Online E-Auction System Using Blockchain
 
 Final Year Engineering Project | React + Node.js + PostgreSQL + Ethereum Blockchain
 
